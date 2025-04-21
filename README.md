@@ -25,6 +25,8 @@ Welcome to my GitHub profile! I’m a **BCA student at UPES** with a strong pass
 ## 💡 Projects
 - 🌐 **Portfolio Website**: A personalized showcase of my skills, projects, and interests.
 - 🏥 **Hospital Management System**: A web-based solution to efficiently manage patient records, including adding, searching, updating, deleting, and viewing details, with features to organize and hide records for streamlined operations.
+- 📔 Digital Diary
+A Java Swing-based desktop application connected to a MySQL database. Allows users to save, edit, delete, and search diary entries by title or date. Designed with an elegant and intuitive UI, including a sidebar to view all saved entries.
 
 ---
 
